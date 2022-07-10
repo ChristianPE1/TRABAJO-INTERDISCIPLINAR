@@ -1,0 +1,42 @@
+
+NOTAS 
+
+APELLIDOS Y NOMBRES			    PROMEDIO	
+1. Apaza Apaza Nelzon Jorge     	|	11.666666666666666	|
+2. Apaza Quispe Angel Abraham   	|	11.666666666666666	|
+3. Benavente Aguirre Paolo Daniel	|	11.666666666666666	|
+4. Carazas Quispe Alessander Jesus	|	11.0	|
+5. Castillo Sancho Sergio       	|	11.0	|
+6. Cayllahua Gutierrez Diego Yampier	|	11.0	|
+7. Ccama Marron Gustavo Alonso  	|	11.0	|
+8. Cerpa Garcia Jean Franco     	|	11.0	|
+9. Condori Casquino Ebert Luis  	|	11.0	|
+10. Davis Coropuna Leon Felipe   	|	11.0	|
+11. Escarza Pacori Alexander Raul	|	11.0	|
+12. Gonzales Condori Alejandro Javier	|	11.0	|
+13. Gutierrez Zevallos Jaime José	|	11.0	|
+14. Hualpa Lopez Jose Mauricio   	|	11.0	|
+15. Huaman Coaquira Luciana Julissa	|	13.666666666666666	|
+16. Lazo Paxi Natalie Marleny    	|	13.333333333333334	|
+17. Lopez Condori Andrea Del Rosario	|	13.0	|
+18. Lupo Condori Avelino         	|	12.666666666666666	|
+19. Maldonado Casilla Braulio Nayap	|	12.333333333333334	|
+20. Maldonado Parejo Roy Abel    	|	11.0	|
+21. Mariños Hilario Princce Yorwin	|	11.0	|
+22. Martínez Choque Aldo Raúl    	|	11.0	|
+23. Mayorga Villena Jharold Alonso	|	11.0	|
+24. Mena Quispe Sergio Sebastian Santos	|	11.0	|
+25. Mogollon Caceres Sergio Daniel	|	11.0	|
+26. Montoya Choque Leonardo      	|	11.0	|
+27. Nizama Cespedes Juan Carlos Antonio	|	11.0	|
+28. Olazábal Chávez Neill Elverth	|	11.0	|
+29. Pardavé Espinoza Christian   	|	11.0	|
+30. Parizaca Mozo Paul Antony    	|	11.0	|
+31. Quilca Huamani Bryan         	|	11.0	|
+32. Quispe Rojas Javier Wilber   	|	11.0	|
+33. Roque Sosa Owen Haziel       	|	14.0	|
+34. Ruiz Mamani Eduardo German   	|	11.333333333333334	|
+35. Sucasaca Chire Edward Henry  	|	11.333333333333334	|
+36. Taya Yana Samuel Omar        	|	11.0	|
+37. Yavar Guillen Roberto Gustavo	|	11.0	|
+38. Zamalloa Molina Sebastian Agenor	|	11.0	|
