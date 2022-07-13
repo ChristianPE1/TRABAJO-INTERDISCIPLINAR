@@ -1,0 +1,59 @@
+
+NOTAS DEL CURSO DE TRABAJO INTERDISCIPLINAR: 
+
+APELLIDOS Y NOMBRES			    PROMEDIO	
+1. Apaza Apaza Nelzon Jorge     	|	14	|
+2. Apaza Quispe Angel Abraham   	|	14	|
+3. Benavente Aguirre Paolo Daniel	|	14	|
+4. Carazas Quispe Alessander Jesus	|	14	|
+5. Castillo Sancho Sergio       	|	14	|
+6. Cayllahua Gutierrez Diego Yampier	|	14	|
+7. Ccama Marron Gustavo Alonso  	|	14	|
+8. Cerpa Garcia Jean Franco     	|	14	|
+9. Condori Casquino Ebert Luis  	|	14	|
+10. Davis Coropuna Leon Felipe   	|	14	|
+11. Escarza Pacori Alexander Raul	|	14	|
+12. Gonzales Condori Alejandro Javier	|	14	|
+13. Gutierrez Zevallos Jaime José	|	14	|
+14. Hualpa Lopez Jose Mauricio   	|	14	|
+15. Huaman Coaquira Luciana Julissa	|	14	|
+16. Lazo Paxi Natalie Marleny    	|	14	|
+17. Lopez Condori Andrea Del Rosario	|	14	|
+18. Lupo Condori Avelino         	|	14	|
+19. Maldonado Casilla Braulio Nayap	|	14	|
+20. Maldonado Parejo Roy Abel    	|	14	|
+21. Mariños Hilario Princce Yorwin	|	14	|
+22. Martínez Choque Aldo Raúl    	|	14	|
+23. Mayorga Villena Jharold Alonso	|	14	|
+24. Mena Quispe Sergio Sebastian Santos	|	14	|
+25. Mogollon Caceres Sergio Daniel	|	14	|
+26. Montoya Choque Leonardo      	|	14	|
+27. Nizama Cespedes Juan Carlos Antonio	|	14	|
+28. Olazábal Chávez Neill Elverth	|	14	|
+29. Pardavé Espinoza Christian   	|	14	|
+30. Parizaca Mozo Paul Antony    	|	14	|
+31. Quilca Huamani Bryan         	|	14	|
+32. Quispe Rojas Javier Wilber   	|	14	|
+33. Roque Sosa Owen Haziel       	|	14	|
+34. Ruiz Mamani Eduardo German   	|	14	|
+35. Sucasaca Chire Edward Henry  	|	14	|
+36. Taya Yana Samuel Omar        	|	14	|
+37. Yavar Guillen Roberto Gustavo	|	14	|
+38. Zamalloa Molina Sebastian Agenor	|	14	|
+39. Zhong Callasi Linghai Joaquin	|	14	|
+
+------------------------------------------------
+
+Alumno con la mayor nota: Apaza Apaza Nelzon Jorge(14)
+
+------------------------------------------------
+
+Alumno con la menor nota:  (0)
+
+------------------------------------------------
+
+Cantidad de alumnos que aprobaron el semestre: 39
+
+------------------------------------------------
+
+Cantidad de alumnos que desaprobaron el semestre: 0
