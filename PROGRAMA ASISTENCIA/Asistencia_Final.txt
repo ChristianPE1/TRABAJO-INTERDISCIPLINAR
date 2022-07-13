@@ -1,0 +1,56 @@
+
+ASISTENCIA
+NÚMERO DE CLASES: 50
+
+APELLIDOS Y NOMBRES			   NÚMERO DE ASISTENCIAS	
+1. Apaza Apaza Nelzon Jorge     		|	48	|
+2. Apaza Quispe Angel Abraham   		|	47	|
+3. Benavente Aguirre Paolo Daniel		|	11	|
+4. Carazas Quispe Alessander Jesus		|	7	|
+5. Castillo Sancho Sergio       		|	9	|
+6. Cayllahua Gutierrez Diego Yampier		|	7	|
+7. Ccama Marron Gustavo Alonso  		|	5	|
+8. Cerpa Garcia Jean Franco     		|	5	|
+9. Condori Casquino Ebert Luis  		|	8	|
+10. Davis Coropuna Leon Felipe   		|	2	|
+11. Escarza Pacori Alexander Raul		|	3	|
+12. Gonzales Condori Alejandro Javier		|	5	|
+13. Gutierrez Zevallos Jaime José		|	5	|
+14. Hualpa Lopez Jose Mauricio   		|	4	|
+15. Huaman Coaquira Luciana Julissa		|	4	|
+16. Lazo Paxi Natalie Marleny    		|	5	|
+17. Lopez Condori Andrea Del Rosario		|	7	|
+18. Lupo Condori Avelino         		|	10	|
+19. Maldonado Casilla Braulio Nayap		|	8	|
+20. Maldonado Parejo Roy Abel    		|	7	|
+21. Mariños Hilario Princce Yorwin		|	4	|
+22. Martínez Choque Aldo Raúl    		|	7	|
+23. Mayorga Villena Jharold Alonso		|	3	|
+24. Mena Quispe Sergio Sebastian Santos		|	5	|
+25. Mogollon Caceres Sergio Daniel		|	3	|
+26. Montoya Choque Leonardo      		|	9	|
+27. Nizama Cespedes Juan Carlos Antonio		|	1	|
+28. Olazábal Chávez Neill Elverth		|	1	|
+29. Pardavé Espinoza Christian   		|	3	|
+30. Parizaca Mozo Paul Antony    		|	2	|
+31. Quilca Huamani Bryan         		|	6	|
+32. Quispe Rojas Javier Wilber   		|	4	|
+33. Roque Sosa Owen Haziel       		|	5	|
+34. Ruiz Mamani Eduardo German   		|	6	|
+35. Sucasaca Chire Edward Henry  		|	8	|
+36. Taya Yana Samuel Omar        		|	10	|
+37. Yavar Guillen Roberto Gustavo		|	7	|
+38. Zamalloa Molina Sebastian Agenor		|	5	|
+39. Zhong Callasi Linghai Joaquin		|	4	|
+
+------------------------------------------------
+
+Cantidad de alumnos que abandonaron el curso: 0
+
+------------------------------------------------
+
+Cantidad de alumnos que asistieron todo el semestre: 0
+
+------------------------------------------------
+
+Cantidad de alumnos que falaron en el semestre: 39

@@ -1,0 +1,43 @@
+
+ASISTENCIA: Wednesday, July 13, 2022
+
+APELLIDOS Y NOMBRES			    ¿ASISTIÓ?	
+1. Apaza Apaza Nelzon Jorge     	|	Si	|     		
+2. Apaza Quispe Angel Abraham   	|	No	|     		
+3. Benavente Aguirre Paolo Daniel	|	Si	|     		
+4. Carazas Quispe Alessander Jesus	|	No	|     		
+5. Castillo Sancho Sergio       	|	Si	|     		
+6. Cayllahua Gutierrez Diego Yampier	|	Si	|     		
+7. Ccama Marron Gustavo Alonso  	|	No	|     		
+8. Cerpa Garcia Jean Franco     	|	No	|     		
+9. Condori Casquino Ebert Luis  	|	No	|     		
+10. Davis Coropuna Leon Felipe   	|	No	|     		
+11. Escarza Pacori Alexander Raul	|	No	|     		
+12. Gonzales Condori Alejandro Javier	|	No	|     		
+13. Gutierrez Zevallos Jaime José	|	Si	|     		
+14. Hualpa Lopez Jose Mauricio   	|	Si	|     		
+15. Huaman Coaquira Luciana Julissa	|	Si	|     		
+16. Lazo Paxi Natalie Marleny    	|	Si	|     		
+17. Lopez Condori Andrea Del Rosario	|	Si	|     		
+18. Lupo Condori Avelino         	|	Si	|     		
+19. Maldonado Casilla Braulio Nayap	|	Si	|     		
+20. Maldonado Parejo Roy Abel    	|	No	|     		
+21. Mariños Hilario Princce Yorwin	|	No	|     		
+22. Martínez Choque Aldo Raúl    	|	No	|     		
+23. Mayorga Villena Jharold Alonso	|	No	|     		
+24. Mena Quispe Sergio Sebastian Santos	|	No	|     		
+25. Mogollon Caceres Sergio Daniel	|	No	|     		
+26. Montoya Choque Leonardo      	|	No	|     		
+27. Nizama Cespedes Juan Carlos Antonio	|	No	|     		
+28. Olazábal Chávez Neill Elverth	|	Si	|     		
+29. Pardavé Espinoza Christian   	|	Si	|     		
+30. Parizaca Mozo Paul Antony    	|	Si	|     		
+31. Quilca Huamani Bryan         	|	Si	|     		
+32. Quispe Rojas Javier Wilber   	|	No	|     		
+33. Roque Sosa Owen Haziel       	|	No	|     		
+34. Ruiz Mamani Eduardo German   	|	No	|     		
+35. Sucasaca Chire Edward Henry  	|	No	|     		
+36. Taya Yana Samuel Omar        	|	No	|     		
+37. Yavar Guillen Roberto Gustavo	|	No	|     		
+38. Zamalloa Molina Sebastian Agenor	|	Si	|     		
+39. Zhong Callasi Linghai Joaquin	|	Si	|     		
